@@ -1,0 +1,13 @@
+# Large raw data file — keep locally, do not commit
+data/device-recall-0001-of-0001.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
