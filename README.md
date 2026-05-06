@@ -125,7 +125,7 @@ Effectiveness breakdown, CAPAs opened per year (2022–2026)
 ---
 
 ## Repository Structure
-
+```
 capa-dashboard/
 ├── data_extraction.ipynb            # Filter raw openFDA JSON for infusion pump records
 ├── data_cleaning.ipynb              # Data cleaning and root cause reclassification
@@ -136,7 +136,7 @@ capa-dashboard/
 │   ├── recall_df_clean.csv          # Cleaned FDA data (529 records)
 │   └── capa_medfluss.csv            # Final synthetic CAPA dataset (529 records)
 └── requirements.txt
-
+```
 ---
 
 ## How to Run
