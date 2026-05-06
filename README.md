@@ -1,4 +1,4 @@
-# CAPA Dashboard — MedFluss GmbH
+# CAPA Dashboard - MedFluss GmbH
 
 A CAPA (Corrective and Preventive Action) performance dashboard built for a fictional ISO 13485:2016certified medical device company. The project uses real FDA recall data as the nonconformity source, with a synthetic CAPA layer built on top to simulate an internal quality management process.
 
